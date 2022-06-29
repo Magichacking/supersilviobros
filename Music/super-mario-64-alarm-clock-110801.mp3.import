@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/super-mario-64-alarm-clock-110801.mp3-9d352fbe204481f9699576e3f928ce82.mp3str"
+
+[deps]
+
+source_file="res://Music/super-mario-64-alarm-clock-110801.mp3"
+dest_files=[ "res://.import/super-mario-64-alarm-clock-110801.mp3-9d352fbe204481f9699576e3f928ce82.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
